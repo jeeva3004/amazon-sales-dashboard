@@ -1,4 +1,4 @@
-# 📊 Amazon Sales Intelligence Dashboard (Power BI)
+# 📊 Amazon Sales Intelligence Dashboard 
 
 ## 🔍 Project Overview
 
